@@ -38,10 +38,10 @@ At **Bajaj Markets**:
 - Optimized APIs, reducing response times by 35% and latency by 50%.
 - Designed an invoice system, decreasing processing time by 60%.
 - Handled 1M+ daily requests with event-driven architecture.
-
+<!--
 As an intern:
 - Built backend solutions, improving API response times by 25%.
-- Created a PAN verification module, increasing accuracy by 40%.
+- Created a PAN verification module, increasing accuracy by 40%.-->
 
 ## Featured Project
 ### Smart Contact Manager
