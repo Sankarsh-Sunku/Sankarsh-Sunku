@@ -21,7 +21,7 @@ Hi 👋! I'm **Sunku Sai Sankarsh**, a **Software Engineer** and **Gen AI develo
 - 💼 Software Engineer at Bajaj Markets (Jan 2023 - Present)
 - 🎓 B.Tech, AI/ML Specialization, SRM Institute (CGPA: 9.5)
 - 🏆 Performer of the Quarter for API optimization
-- 📧 [sunkusankarsh@gmail.com](mailto:sunkusankarsh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sunkusankarsh)
+- 📧 [sunkusankarsh@gmail.com](mailto:sunkusankarsh@gmail.com) | [LinkedIn](www.linkedin.com/in/sunku-sankarsh)
 
 ## Skills
 - **Languages**: Java, Python, SQL
